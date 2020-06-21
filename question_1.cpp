@@ -56,7 +56,7 @@ class Pizza{
     }
 };
 
-int main(){
+int main1(){ //set the name to of the function to main()
   Pizza singlePizza;
   char size;
   int cheeseToppings;
